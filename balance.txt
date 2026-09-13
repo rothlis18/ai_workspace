@@ -1,0 +1,4 @@
+# User Balance Ledger (Format: username:balance)
+# Updated when bids are placed or balance is adjusted
+demo_user:100.00
+admin:500.00
